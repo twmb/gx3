@@ -1,0 +1,3 @@
+[submodule "testdata/xxHash"]
+	path = testdata/xxHash
+	url = git@github.com:Cyan4973/xxHash.git
